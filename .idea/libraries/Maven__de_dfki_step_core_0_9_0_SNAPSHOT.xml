@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.dfki.step:core:0.9.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dfki/step/core/0.9.0-SNAPSHOT/core-0.9.0-20210212.145922-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dfki/step/core/0.9.0-SNAPSHOT/core-0.9.0-20210212.145922-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dfki/step/core/0.9.0-SNAPSHOT/core-0.9.0-20210212.145922-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

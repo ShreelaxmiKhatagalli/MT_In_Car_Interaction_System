@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.dfki.step:spring:0.9.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dfki/step/spring/0.9.0-SNAPSHOT/spring-0.9.0-20210212.145931-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dfki/step/spring/0.9.0-SNAPSHOT/spring-0.9.0-20210212.145931-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/dfki/step/spring/0.9.0-SNAPSHOT/spring-0.9.0-20210212.145931-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
